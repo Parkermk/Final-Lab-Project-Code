@@ -1,5 +1,5 @@
 # Final-Lab-Project-Code
-Here is one finished codes that we attempted to use on our final lab project.
+Here is one finished code that we attempted to use on our final lab project.
 //the first code we tried 
 #include <Wire.h>
 //BME280
